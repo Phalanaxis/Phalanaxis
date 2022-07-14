@@ -1,4 +1,4 @@
-<div>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+frontend+developer)](https://git.io/typing-svg)</div> ### Hi there I am Artyom👋
+### Hi there I am Artyom👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+frontend+developer)](https://git.io/typing-svg)
 
 <!--
 **Phalanaxis/Phalanaxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
