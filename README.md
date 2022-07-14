@@ -1,4 +1,4 @@
-### Hi there I am Artyom👋
+<div>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+frontend+developer)](https://git.io/typing-svg)</div> ### Hi there I am Artyom👋
 
 <!--
 **Phalanaxis/Phalanaxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+frontend+developer)](https://git.io/typing-svg)
+
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phalanaxis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Phalanaxis&theme=dark&background=000000)](https://git.io/streak-stats)
