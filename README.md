@@ -18,7 +18,7 @@ Tools which i use:
 
 A little bit more about me:
 
-<a href="[https://www.codewars.com/users/Phalanaxis/badges/large](https://www.codewars.com/users/Phalanaxis)"><img src="[https://www.codewars.com/users/Hateire/badges/large](https://www.codewars.com/users/Phalanaxis/badges/large)"/></a>
+<a href="https://www.codewars.com/users/Phalanaxis"><img src="https://www.codewars.com/users/Phalanaxis/badges/large"/></a>
 
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Phalanaxis&theme=dark-smoky&background=000000)](https://git.io/streak-stats)
