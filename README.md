@@ -17,8 +17,7 @@ Tools which i use:
 </div>
 <br>
 A little bit more about me:
-
+<br>
 <a href="https://www.codewars.com/users/Phalanaxis"><img src="https://www.codewars.com/users/Phalanaxis/badges/large"/></a>
-
-
+<br>
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Phalanaxis&theme=dark-smoky&background=000000)](https://git.io/streak-stats)
