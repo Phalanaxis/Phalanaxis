@@ -15,7 +15,7 @@ Tools which i use:
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" **alt="Npm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="Npm" **alt="Npm" width="40" height="40"/>
 </div>
-
+<br>
 A little bit more about me:
 
 <a href="https://www.codewars.com/users/Phalanaxis"><img src="https://www.codewars.com/users/Phalanaxis/badges/large"/></a>
