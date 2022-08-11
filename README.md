@@ -24,7 +24,7 @@ Tools which i use:
 
 ###
 
-A little bit more about me:
+A little bit of shiny cool stats:
 
 ###
 
