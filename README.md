@@ -33,3 +33,7 @@ A little bit of shiny cool stats:
 ###
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Phalanaxis&theme=dark-smoky&background=000000)](https://git.io/streak-stats)
+ 
+ ###
+ 
+ ![](https://komarev.com/ghpvc/?username=your-github-username)
