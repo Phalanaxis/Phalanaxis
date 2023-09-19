@@ -4,9 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"align="center"/>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
-
-Tools which i use:
 ###
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
@@ -21,8 +18,9 @@ Tools which i use:
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" **alt="Npm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="Npm" **alt="Npm" width="40" height="40"/>
 </div>
-
 ###
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
 
 
 ###
