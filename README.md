@@ -24,11 +24,6 @@ Tools which i use:
 
 ###
 
-A little bit of shiny cool stats:
-
-###
-
-<a href="https://www.codewars.com/users/Phalanaxis"><img src="https://www.codewars.com/users/Phalanaxis/badges/large"/></a>
 
 ###
 
