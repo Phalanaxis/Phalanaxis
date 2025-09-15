@@ -23,12 +23,3 @@
 ###
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
-
-
-###
-
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Phalanaxis&theme=dark-smoky&background=000000)](https://git.io/streak-stats)
- 
- ###
- 
- ![](https://komarev.com/ghpvc/?username=your-github-username)
